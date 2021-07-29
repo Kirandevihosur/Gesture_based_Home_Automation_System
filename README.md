@@ -11,6 +11,11 @@ Hand gestures are detected by Ultrasonic sensor and Pi camera module. Ultrasonic
 
 This project is built on Raspberry Pi 3 and has LCD module for user interface, Ultrasonic sensor and Pi camera for Motion Detection and a relay module to drive appliances ON or OFF.
 ***
+#### Technologies and languages used
+* Computer vision
+* Python
+* Raspberry pi programming
+***
 #### Block Diagram
 
 ![image](https://user-images.githubusercontent.com/35588125/127550469-4c59ff28-d58f-409b-9e44-d7be8e6a3bde.png)
